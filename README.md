@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá ,Eu sou Franklin Rodrigues
 
 
 - 🌱 Estou estudando Java ,Javascript e C+
