@@ -15,7 +15,7 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: flex"><br>
+  <div style="display: inline-block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
