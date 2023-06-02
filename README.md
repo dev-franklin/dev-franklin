@@ -48,7 +48,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/dev-franklin/devfranklin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-franklin/dev-franklin/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
