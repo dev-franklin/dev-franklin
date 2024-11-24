@@ -1,8 +1,8 @@
  ### Olá ,Eu sou Franklin Rodrigues
 
 
-- 🌱 Estou estudando Java ,Javascript ,C+ e cursando o 4o período de análise de sistemas
-- 📫 Estou em busca de conhecimento e experiência
+- 🌱 Estudando Java ,Javascript ,C+ ,React Native e cursando 5o período de análise de sistemas
+- 📫 Em busca de conhecimento e experiência
 - 😄 pronomes: Ele/Dele
 
 
