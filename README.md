@@ -7,22 +7,8 @@
 
 
 
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="www.linkedin.com/in/franklinrodrigues2023">Franklin Rodrigues 😃️</a>
-  </h1>
-  
-  <p align="center">
-    Sou Estudante de T.I e Programação com foco em front-end 
-  </p>
-  
-  <p align="center">
-    Me siga no linkedin pra compartilhar conhecimentos😉️
-  </p>
-  
-</div>
+
+
 
 <div align="center">
   <a href="https://github.com/duribeiro">
